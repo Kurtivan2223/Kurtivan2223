@@ -3,20 +3,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 developer
 ------------------
-
-I am an undergrad software engineer. I am currently pursuing a Bachelor of Science in Information Technology degree at Holy Name University.
-
 * 🌍  I'm based in Tagbilaran City, Bohol
 * ✉️  You can contact me at [isyot223@gmail.com](mailto:isyot223@gmail.com)
-* 🧠  I'm learning to possess full-stack developer skills.
-* 🤝  I'm open to collaborating on interesting web development projects and C projects.
-* ⚡  I'm 19 years old, and I've been getting serious about coding since I was 17 years old.
 
 <a href="https://www.github.com/kurtivan2223" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kurtivan2223?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,java,php,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,java,php,lua,mysql,sqlite,mongodb,laravel,cmake,bots)](https://skillicons.dev)
 
 ### Badges
 
