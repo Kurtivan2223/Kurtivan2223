@@ -16,7 +16,7 @@ I am an undergrad software engineer. I am currently pursuing a Bachelor of Scien
 src="https://img.shields.io/github/followers/kurtivan2223?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,c#,python,java,php,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,java,php,lua)](https://skillicons.dev)
 
 ### Badges
 
