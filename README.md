@@ -19,4 +19,9 @@ src="https://img.shields.io/github/followers/kurtivan2223?logo=github&style=for-
   <img src="https://github-readme-stats.vercel.app/api?username=kurtivan2223&show_icons=true&theme=radical&line_height=24&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtivan2223&theme=radical&layout=compact" />
 </div>
-<a href="http://www.github.com/kurtivan2223"><img src="https://activity-graph.herokuapp.com/graph?username=kurtivan2223&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<div align="center">
+  <a href="http://www.github.com/jucosmon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kurtivan2223&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+  <a href="https://github.com/jucosmon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtivan2223&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
